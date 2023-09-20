@@ -1,0 +1,11 @@
+commit b8e87e78c4793b42413735dfef042ab58954ae50
+Author: Marcus Peterson <marcus.peterson@yh.nackademin.se>
+Date:   Wed Sep 20 17:47:12 2023 +0200
+
+    Jag gjorde så att fiskar klassen returnerade fisken
+
+commit 83e08f4f4fe1655fc9ab2f3221a8b6379749a682
+Author: Marcus Peterson <marcus.peterson@yh.nackademin.se>
+Date:   Wed Sep 20 17:45:42 2023 +0200
+
+    Jag lade till fiskar api:et, detta är klass som skall returna en fisk
