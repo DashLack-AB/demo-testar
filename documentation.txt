@@ -9,3 +9,5 @@ Author: Marcus Peterson <marcus.peterson@yh.nackademin.se>
 Date:   Wed Sep 20 17:45:42 2023 +0200
 
     Jag lade till fiskar api:et, detta är klass som skall returna en fisk
+
+åsnor säger hej
